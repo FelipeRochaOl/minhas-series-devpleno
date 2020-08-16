@@ -1,0 +1,26 @@
+{
+  "name": "minhas-series-devpleno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeRochaOl/minhas-series-devpleno.git"
+  },
+  "author": "Felipe Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeRochaOl/minhas-series-devpleno/issues"
+  },
+  "homepage": "https://github.com/FelipeRochaOl/minhas-series-devpleno#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
